@@ -1,3 +1,45 @@
+surface.CreateFont("nutIconsSmall", {
+    font = "fontello",
+    size = 22,
+    extended = true,
+    weight = 500
+})
+
+surface.CreateFont("nutIconsMedium", {
+    font = "fontello",
+    extended = true,
+    size = 28,
+    weight = 500
+})
+
+surface.CreateFont("nutIconsBig", {
+    font = "fontello",
+    extended = true,
+    size = 48,
+    weight = 500
+})
+
+surface.CreateFont("nutIconsSmallNew", {
+    font = "nsicons",
+    size = 22,
+    extended = true,
+    weight = 500
+})
+
+surface.CreateFont("nutIconsMediumNew", {
+    font = "nsicons",
+    extended = true,
+    size = 28,
+    weight = 500
+})
+
+surface.CreateFont("nutIconsBigNew", {
+    font = "nsicons",
+    extended = true,
+    size = 48,
+    weight = 500
+})
+
 local function ScrapPage()
     local d = deferred.new()
 
@@ -23,3 +65,7 @@ end
 ScrapPage():next(function(scrapped)
     IX_ICON_FONT = scrapped
 end)
+
+
+
+
