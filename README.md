@@ -18,7 +18,7 @@ hook.Add('HUDPaint','TEST', function()
 end)
 ```
 
-# Nutscript icon fonts:
+# Helix icon fonts:
 Font | Size 
 --- | --- 
 nutIconsSmallNew | 22
