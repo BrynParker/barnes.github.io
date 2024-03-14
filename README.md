@@ -21,9 +21,9 @@ end)
 # Helix icon fonts:
 Font | Size 
 --- | --- 
-nutIconsSmallNew | 22
-nutIconsMediumNew | 28
-nutIconsBigNew | 48
+ixIconsSmallNew | 22
+ixIconsMediumNew | 28
+ixIconsBigNew | 48
 
 # Links:
 [List of all icons](https://brynparker.github.io/civicnetworks/)
