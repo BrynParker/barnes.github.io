@@ -1,39 +1,20 @@
-surface.CreateFont("nutIconsSmall", {
-    font = "fontello",
-    size = 22,
-    extended = true,
-    weight = 500
-})
 
-surface.CreateFont("nutIconsMedium", {
-    font = "fontello",
-    extended = true,
-    size = 28,
-    weight = 500
-})
 
-surface.CreateFont("nutIconsBig", {
-    font = "fontello",
-    extended = true,
-    size = 48,
-    weight = 500
-})
-
-surface.CreateFont("nutIconsSmallNew", {
+surface.CreateFont("ixIconsSmallNew", {
     font = "nsicons",
     size = 22,
     extended = true,
     weight = 500
 })
 
-surface.CreateFont("nutIconsMediumNew", {
+surface.CreateFont("ixIconsMediumNew", {
     font = "nsicons",
     extended = true,
     size = 28,
     weight = 500
 })
 
-surface.CreateFont("nutIconsBigNew", {
+surface.CreateFont("ixIconsBigNew", {
     font = "nsicons",
     extended = true,
     size = 48,
